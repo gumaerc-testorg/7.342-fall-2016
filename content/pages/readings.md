@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 95f9f54a-b353-91ab-8dc9-171304fa4193
 ---
@@ -262,7 +265,7 @@ Chemical modifications of mature RNA molecules
 {{< tdopen >}}
 
 
-Wang, X., B. S. Zhao, et al. "[_N6_\-methyladenosine Modulates Messenger RNA Translation Efficiency](https://dx.doi.org/10.1016/j.cell.2015.05.014)." _Cell_ 161, no. 6 (2015): 1388–99.
+Wang, X., B. S. Zhao, et al. "[_N{{< sup "6" >}}_\-methyladenosine Modulates Messenger RNA Translation Efficiency](https://dx.doi.org/10.1016/j.cell.2015.05.014)." _Cell_ 161, no. 6 (2015): 1388–99.
 
 Sharma, P. M., M. Bowman, et al. "[RNA Editing in the Wilms' Tumor Susceptibility Gene, WT1](http://dx.doi.org/10.1101/gad.8.6.720)." _Genes Development_ 8, no. 6 (1994): 720–31.
 
