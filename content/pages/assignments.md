@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains a description of the midterm and final assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 69fff540-7cca-af54-a432-503f05b7328f
 ---
@@ -9,7 +13,7 @@ Written Assignment (Due Week 7)
 
 There will be one written assignment for the course. The purpose of the assignment is to practice designing experiments and determining research directions. In Week 5, students will be provided one figure representing the results of a single experiment performed using methods we will have discussed in previous classes. Based on the data, students must design and propose two additional follow-up experiments. The proposal should be two to three pages, double spaced, Times New Roman, 11 point font, and 1 inch page margins.
 
-[Midterm Written Assignment (PDF)]({{< baseurl >}}/resources/mit7_342f16_midterm_aw)
+{{% resource_link e541b468-3dcf-fa5a-c0e6-d5fcb8545a06 "Midterm Written Assignment (PDF)" %}}
 
 Oral Assignment (Due Week 13)
 -----------------------------

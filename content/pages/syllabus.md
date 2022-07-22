@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section includes a course description, information on course format
+  and grading, and a calendar.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 6ca90519-0c64-0272-57c8-41f84352698b
 ---
@@ -12,15 +16,15 @@ Lectures: 1 session / week, 2 hours / session
 Prerequisites
 -------------
 
-[_7.03 Genetics_](/courses/7-03-genetics-fall-2004/)
+[_7.03 Genetics_](/courses/7-03-genetics-fall-2004)
 
 _7.05 General Biochemistry_
 
-[_7.06 Cell Biology_](/courses/7-06-cell-biology-spring-2007/)
+[_7.06 Cell Biology_](/courses/7-06-cell-biology-spring-2007)
 
 or
 
-[_7.28 Molecular Biology_](/courses/7-28-molecular-biology-spring-2005/)
+[_7.28 Molecular Biology_](/courses/7-28-molecular-biology-spring-2005)
 
 Course Description
 ------------------
@@ -49,7 +53,7 @@ The main objective for this course is to open up a world of groundbreaking scien
 *   Appreciate the historical progression of the RNA field, including current state-of-the-art research topics.
 *   Understand how basic scientific discoveries are translated into novel disease therapies.
 
-To aid in accomplishing these objectives, students will be required to complete one written assignment and one oral assignment as described in the [Assignments]({{< baseurl >}}/pages/assignments) section.
+To aid in accomplishing these objectives, students will be required to complete one written assignment and one oral assignment as described in the {{% resource_link 69fff540-7cca-af54-a432-503f05b7328f "Assignments" %}} section.
 
 Grading
 -------

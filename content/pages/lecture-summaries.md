@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains lecture summaries for every week of the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Summaries
 uid: 6a598894-7add-dfce-148d-4eccf9062f5f
 ---
@@ -150,7 +154,7 @@ Chemical modifications of mature RNA molecules
 {{< tdopen >}}
 
 
-{{< anchor "week11" >}}{{< /anchor >}}Ribosomal RNA is not the only RNA that can be modified in a way that changes its meaning and function. In fact, recently there has been a veritable explosion in the discovery of chemical modifications that can be made to RNA molecules. We will examine one recent example of messenger RNA (mRNA) modification involving N6\-methyladenosine. We will discuss how these modifications were discovered as well as their potential role in the regulation of protein levels. We will speculate as to additional modifications that could be made to mRNAs and how we might go about discovering if such modifications occur. Then we will consider a case of RNA editing, whereby bases in an otherwise mature mRNA molecule can be replaced with entirely new bases. Such editing might have very important roles in the overall regulation of these messages, and we will consider if this is the case in Wilms tumor, a pediatric malignancy of the kidney. These papers will allow us to further our knowledge of next-generation sequencing techniques along with further considering how techniques from chemistry can help us understand the life sciences.
+{{< anchor "week11" >}}{{< /anchor >}}Ribosomal RNA is not the only RNA that can be modified in a way that changes its meaning and function. In fact, recently there has been a veritable explosion in the discovery of chemical modifications that can be made to RNA molecules. We will examine one recent example of messenger RNA (mRNA) modification involving N{{< sup "6" >}}\-methyladenosine. We will discuss how these modifications were discovered as well as their potential role in the regulation of protein levels. We will speculate as to additional modifications that could be made to mRNAs and how we might go about discovering if such modifications occur. Then we will consider a case of RNA editing, whereby bases in an otherwise mature mRNA molecule can be replaced with entirely new bases. Such editing might have very important roles in the overall regulation of these messages, and we will consider if this is the case in Wilms tumor, a pediatric malignancy of the kidney. These papers will allow us to further our knowledge of next-generation sequencing techniques along with further considering how techniques from chemistry can help us understand the life sciences.
 
 Note: At the end of class we will distribute a list of publications from which you will choose one for the final oral presentation. You may choose a paper not on the list with approval from the instructors.
 
@@ -182,7 +186,7 @@ Harnessing an RNA-guided immune system to treat human disease
 Oral Presentations and Course Evaluations
 {{< tdclose >}}
 {{< tdopen >}}
-{{< anchor "week13" >}}{{< /anchor >}}Refer to the [Assignments]({{< baseurl >}}/pages/assignments) section regarding the requirements for the oral presentations. In addition, we will discuss the course in general, and course evaluations will be completed as a way for the students to provide feedback about their experience in the course.
+{{< anchor "week13" >}}{{< /anchor >}}Refer to the {{% resource_link 69fff540-7cca-af54-a432-503f05b7328f "Assignments" %}} section regarding the requirements for the oral presentations. In addition, we will discuss the course in general, and course evaluations will be completed as a way for the students to provide feedback about their experience in the course.
 {{< tdclose >}}
 
 {{< trclose >}}
