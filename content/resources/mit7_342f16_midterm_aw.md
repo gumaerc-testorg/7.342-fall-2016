@@ -6,6 +6,7 @@ file: /courses/7-342-the-rna-revolution-at-the-frontiers-of-cell-biology-and-mol
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'The RNA Revolution: Midterm Assignment '
 uid: e541b468-3dcf-fa5a-c0e6-d5fcb8545a06
 ---
 Midterm writing assignment on designing experiments and determining research directions.
-
