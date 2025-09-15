@@ -2,7 +2,8 @@
 content_type: resource
 description: Midterm writing assignment on designing experiments and determining research
   directions.
-file: /courses/7-342-the-rna-revolution-at-the-frontiers-of-cell-biology-and-molecular-medicine-fall-2016/e541b4683dcffa5ac0e6d5fcb8545a06_MIT7_342F16_Midterm_AW.pdf
+file: /ol-ocw-studio-app/courses/7-342-the-rna-revolution-at-the-frontiers-of-cell-biology-and-molecular-medicine-fall-2016/e541b4683dcffa5ac0e6d5fcb8545a06_MIT7_342F16_Midterm_AW.pdf
+file_size: 464049
 file_type: application/pdf
 learning_resource_types:
 - Assignments
