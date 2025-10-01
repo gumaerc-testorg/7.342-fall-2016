@@ -171,7 +171,7 @@ Written Assignment due
 Field trip to Alnylam
 {{< tdclose >}}
 {{< tdopen >}}
-Field trip to the [Alnylam Pharmaceuticals](http://www.alnylam.com/), Inc.
+Field trip to the {{% resource_link "e587a6f6-df3e-4e21-bc22-2807b1337c8f" "Alnylam Pharmaceuticals" %}}, Inc.
 {{< tdclose >}}
 
 {{< trclose >}}
